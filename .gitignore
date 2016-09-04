@@ -1,0 +1,7 @@
+# directory
+movie
+picture
+story
+
+# file
+*.pyc
