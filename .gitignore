@@ -5,3 +5,7 @@ story
 
 # file
 *.pyc
+
+
+# myfile
+*.swp
